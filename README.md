@@ -1,4 +1,3 @@
-# PDF-merger
 PDF Merger Webpage
 
 This project is a web-based application that allows users to merge multiple PDF files into a single PDF. The application is built using HTML, Bootstrap for styling, and Node.js for backend functionality.
